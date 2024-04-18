@@ -1,6 +1,6 @@
 # Aman Verma's Portfolio
 aman1818.netlify.app
-Welcome to my portfolio website! This repository contains the source code and assets for my personal portfolio website.
+Welcome to my portfolio website! This repository contains the source code and assets for my personal portfolio website
 
 ## Table of Contents
 - [Introduction](#introduction)
